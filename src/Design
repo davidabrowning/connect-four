@@ -1,0 +1,18 @@
+GAMEBOARD
+int[][] slots
+char activePlayer -- X or O
+----------
+String toString()
+void setSlots(int row, int col, char value)
+boolean isGameOver()
+void swapActivePlayer()
+boolean hasOpenSlots(int col)
+void playTurn()
+void playGame()
+
+
+
+USERINPUTRETRIEVER
+Scanner input
+----------
+int getIntInput(max, min)

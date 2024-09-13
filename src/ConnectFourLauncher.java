@@ -1,3 +1,7 @@
+/**
+ * Launch the Connect Four game by running this file.
+ * @author: David Browning
+ */
 public class ConnectFourLauncher {
 
     public static void main(String[] args) {
